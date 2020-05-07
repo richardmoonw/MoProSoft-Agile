@@ -1,5 +1,5 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import App from './App'
+import Barra from './Barra'
 
-ReactDOM.render(<App />, document.getElementById('root'))
+ReactDOM.render(<Barra />, document.getElementById('root'))
