@@ -7,13 +7,13 @@ import FormControl from 'react-bootstrap/FormControl'
 import Button from 'react-bootstrap/Button'
 import 'bootstrap/dist/css/bootstrap.css'
 
-class Barra extends Component {
+class NavigationBar extends Component {
     render() {
         return (
             
         
             <Navbar bg="light" expand="lg">
-            <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
+            <Navbar.Brand href="#home"></Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
               <Nav className="mr-auto">
@@ -39,4 +39,4 @@ class Barra extends Component {
     }
 }
 
-export default Barra
+export default NavigationBar

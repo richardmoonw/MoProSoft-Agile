@@ -1,5 +1,5 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import Barra from './Barra'
+import MainScreen from './MainScreen/MainScreen'
 
-ReactDOM.render(<Barra />, document.getElementById('root'))
+ReactDOM.render(<MainScreen />, document.getElementById('root'))
