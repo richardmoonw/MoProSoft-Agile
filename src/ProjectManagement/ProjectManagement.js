@@ -13,37 +13,37 @@ class ProjectManagement extends Component {
                 <br />
                 <Container>
                     <div>
-                        <h1>Specific Projects Management</h1>
+                        <h1>Specific Project Management</h1>
                         <br/>
                         <Row>
                             <Col md lg="8">
-                            <Table>
-                                <thead>
-                                    <th>Process</th>
-                                    <th>Specific Projects Management</th>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td><b>Category</b></td>
-                                        <td>Operation (OPE)</td>
-                                    </tr>
-                                    <tr>
-                                        <td><b>Purpose</b></td>
-                                        <td>The purpose of Specific Projects Management is to establish and systematically carry out the activities that allow raising the requirements of a project in the expected time and cost. </td>
-                                    </tr>
-                                    <tr>
-                                        <td><b>Objectives</b></td>
-                                        <td>
-                                            <ul>
-                                                <li>To achieve the project's objectives in time and cost through its resources coordination and management.</li>
-                                                <li>To keep the customer informed by conducting meetings of the project's progress.</li>
-                                                <li>To attend the changes requests through its reception and analysis.</li>
-                                            </ul>
-                                            
-                                        </td>
-                                    </tr>
-                                </tbody>
-                            </Table>
+                                <Table>
+                                    <thead>
+                                        <th>Process</th>
+                                        <th>Specific Project Management</th>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td><b>Category</b></td>
+                                            <td>Operational (OPE)</td>
+                                        </tr>
+                                        <tr>
+                                            <td><b>Purpose</b></td>
+                                            <td>The purpose of Specific Project Management is to establish and systematically carry out the activities that allow raising the requirements of a project in the expected time and cost. </td>
+                                        </tr>
+                                        <tr>
+                                            <td><b>Objectives</b></td>
+                                            <td>
+                                                <ul>
+                                                    <li>To achieve the project's objectives in time and cost through its resources coordination and management.</li>
+                                                    <li>To keep the customer informed by conducting meetings of the project's progress.</li>
+                                                    <li>To attend the changes requests through its reception and analysis.</li>
+                                                </ul>
+                                                
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </Table>
                             </Col>
                         </Row>     
                     </div>

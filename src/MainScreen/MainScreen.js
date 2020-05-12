@@ -28,7 +28,7 @@ class MainScreen extends Component {
                             <img src={require('../assets/moprosoft_processes.jpg')} height= '627'  width='800' useMap="#moprosoft" alt="My Logo" />
                             <map name="moprosoft">
                                 <Link redirect to="project_management"><area shape="rect" coords="165,460,360,560" /></Link>
-                                <area shape="rect" coords="397,462,590,560" href="" alt="Moon" />
+                                <Link redirect to="software_development"><area shape="rect" coords="397,462,590,560" href="" alt="Moon" /></Link>
                             </map>
                         </Col>
                     </Row>
