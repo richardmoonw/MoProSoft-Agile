@@ -45,10 +45,13 @@ class SoftwareDevelopment extends Component {
                                 </tbody>
                             </Table>
                             </Col>
-                        </Row>     
+                        </Row>
+                        <Row>
+                            <Col sm="0" md lg="1"></Col>
+                            <img src={require('../assets/software_development.jpg')} height= '2204'  width='1177' useMap="#moprosoft" alt="My Logo" />
+                        </Row>
+                        <br/>  
                     </div>
-
-                    
                 </Container>
             </div>
         )

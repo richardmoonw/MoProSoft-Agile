@@ -45,10 +45,13 @@ class ProjectManagement extends Component {
                                     </tbody>
                                 </Table>
                             </Col>
-                        </Row>     
+                        </Row>
+                        <Row>
+                            <Col sm="0" md lg="1"></Col>
+                            <img src={require('../assets/specific_project.jpg')} height= '1250'  width='896' useMap="#moprosoft" alt="My Logo" />
+                        </Row>
+                        <br/>   
                     </div>
-
-                    
                 </Container>
             </div>
         )
