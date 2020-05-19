@@ -4,6 +4,7 @@ import Table from 'react-bootstrap/Table'
 import Container from 'react-bootstrap/Container'
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
+import {Link} from 'react-router-dom'
 
 class ProjectManagement extends Component {
     render(){
@@ -20,7 +21,7 @@ class ProjectManagement extends Component {
                                 <Table>
                                     <thead>
                                         <th>Process</th>
-                                        <th>Specific Project Management</th>
+                                        <th>A1.3 Specific Project Management</th>
                                     </thead>
                                     <tbody>
                                         <tr>
@@ -48,7 +49,25 @@ class ProjectManagement extends Component {
                         </Row>
                         <Row>
                             <Col sm="0" md lg="1"></Col>
-                            <img src={require('../assets/specific_project.jpg')} height= '1250'  width='896' useMap="#moprosoft" alt="My Logo" />
+                            <img src={require('../assets/specific_project.jpg')} height= '1250'  width='896' useMap="#specific_project" alt="My Logo" />
+                            <map name="specific_project">
+                                <Link redirect to="review_project_des"><area shape="rect" coords="162,85,278,122" /></Link>
+                                <Link redirect to="define_small_rel"><area shape="rect" coords="162,146,278,187"/></Link>
+                                <Link redirect to="identify_stories"><area shape="rect" coords="385,217,495,258"/></Link>
+                                <Link redirect to="order_backlog"><area shape="rect" coords="385,282,495,322"/></Link>
+                                <Link redirect to="define_points"><area shape="rect" coords="615,354,727,384"/></Link>
+                                <Link redirect to="assign_resources"><area shape="rect" coords="615,402,727,443"/></Link>
+                                <Link redirect to="evaluate_cost"><area shape="rect" coords="162,462,278,503"/></Link>
+                                <Link redirect to="review_roadmap"><area shape="rect" coords="375,530,498,562"/></Link>
+                                <Link redirect to="backlog_grooming"><area shape="rect" coords="380,588,493,629"/></Link>
+                                <Link redirect to="choose_stories"><area shape="rect" coords="612,659,733,699"/></Link>
+                                <Link redirect to="assign_stories"><area shape="rect" coords="612,717,733,757"/></Link>
+                                <Link redirect to="meetings"><area shape="rect" coords="612,781,733,830"/></Link>
+                                <Link redirect to="review_burndown"><area shape="rect" coords="612,852,733,892"/></Link>
+                                <Link redirect to="review_traceability"><area shape="rect" coords="612,917,733,957"/></Link>
+                                <Link redirect to="sprint_review"><area shape="rect" coords="387,997,501,1029"/></Link>
+                                <Link redirect to="sprint_retrospective"><area shape="rect" coords="612,1068,733,1100"/></Link>
+                            </map>
                         </Row>
                         <br/>   
                     </div>
