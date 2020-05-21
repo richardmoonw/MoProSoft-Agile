@@ -33,7 +33,7 @@ class A8ReviewUsersManual extends Component {
                                         <tr>
                                             <td><b>Brief Description</b></td>
                                             <td>
-                                                <p>A developer makes or reworks the User’s Manual.</p>
+                                                <p>The developers correct the defects found in the User Manual based on the Verification Report and obtain approval of the corrections.</p>
                                             </td>
                                         </tr>
                                         <tr>
