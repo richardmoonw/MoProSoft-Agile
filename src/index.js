@@ -53,6 +53,9 @@ import A29SprintRetrospective from './SoftwareDevelopment/A29SprintRetrospective
 
 import ScrumMaster from './Roles/ScrumMaster'
 import ProductOwner from './Roles/ProductOwner'
+import DevTeam from './Roles/DevTeam'
+import Developer from './Roles/Developer'
+import QA from './Roles/QA'
 
 const Index = () => (
     <BrowserRouter>
@@ -114,6 +117,9 @@ const Index = () => (
             {/* Roles */}
             <Route path="/scrum_master/" component={ScrumMaster} exact />
             <Route path="/product_owner/" component={ProductOwner} exact />
+            <Route path="/dev_team/" component={DevTeam} exact />
+            <Route path="/developer/" component={Developer} exact />
+            <Route path="/qa/" component={QA} exact />
             
         </Switch>
     </BrowserRouter>

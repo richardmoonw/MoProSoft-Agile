@@ -27,7 +27,7 @@ class A7MakeUsersManual extends Component {
                                         <tr>
                                             <td><b>Roles</b></td>
                                             <td>
-                                                <p>Developer.</p>
+                                                <Link redirect to="developer"><p>Developer</p></Link>
                                             </td>
                                         </tr>
                                         <tr>

@@ -27,7 +27,7 @@ class A15AddHighlevelDesign extends Component {
                                         <tr>
                                             <td><b>Roles</b></td>
                                             <td>
-                                                <p>Developer.</p>
+                                                <Link redirect to="developer"><p>Developer</p></Link>
                                             </td>
                                         </tr>
                                         <tr>

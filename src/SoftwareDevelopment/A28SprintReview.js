@@ -29,7 +29,7 @@ class A28SprintReview extends Component {
                                             <td>
                                                 <Link redirect to="scrum_master"><p>Scrum Master</p></Link>
                                                 <Link redirect to="product_owner"><p>Product Owner</p></Link>
-                                                <p>Dev Team.</p>
+                                                <Link redirect to="dev_team"><p>Dev Team</p></Link>
                                             </td>
                                         </tr>
                                         <tr>

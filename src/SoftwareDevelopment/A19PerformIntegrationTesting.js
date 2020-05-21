@@ -27,7 +27,7 @@ class A19PerformIntegrationTesting extends Component {
                                         <tr>
                                             <td><b>Roles</b></td>
                                             <td>
-                                                <p>QA.</p>
+                                                <Link redirect to="qa"><p>QA</p></Link>
                                             </td>
                                         </tr>
                                         <tr>

@@ -28,7 +28,7 @@ class ChooseStories extends Component {
                                             <td><b>Roles</b></td>
                                             <td>
                                                 <Link redirect to="scrum_master"><p>Scrum Master</p></Link>
-                                                <p>Dev Team.</p>
+                                                <Link redirect to="dev_team"><p>Dev Team</p></Link>
                                             </td>
                                         </tr>
                                         <tr>

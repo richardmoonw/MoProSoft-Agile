@@ -5,7 +5,7 @@ import Container from 'react-bootstrap/Container'
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
 
-class DevTeam extends Component {
+class Developer extends Component {
     render(){
         return (
             <div>
@@ -13,7 +13,7 @@ class DevTeam extends Component {
                 <br />
                 <Container>
                     <div>
-                        <h1>Dev Team</h1>
+                        <h1>Developer</h1>
                         <br/>
                         <Row>
                             <Col md lg="8">
@@ -22,11 +22,9 @@ class DevTeam extends Component {
                                         <tr>
                                             <td>Role Description</td>
                                             <td>
-                                                <p>The development team has from three to nine members who carry out all tasks required to build increments of valuable 
-                                                    output every sprint. 
-                                                    The team is self-organizing. While no work should come to the team except through the product owner, and the scrum 
-                                                    master is expected to protect the team from too much distraction, the team should still be encouraged to interact 
-                                                    directly with customers and/or stakeholders to gain maximum understanding and immediacy of feedback.</p>
+                                                <p>The job of a software developer depends on the needs of the company, organization or team they are on. Some build and 
+                                                    maintain systems that run devices and networks. Others develop applications that make it possible for people to perform 
+                                                    specific tasks on computers, cellphones or other devices.</p>
                                             </td>
                                         </tr>
                                         <tr>
@@ -46,4 +44,4 @@ class DevTeam extends Component {
 }
 
 
-export default DevTeam
+export default Developer
