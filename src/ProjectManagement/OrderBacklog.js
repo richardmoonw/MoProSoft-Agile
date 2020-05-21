@@ -4,6 +4,7 @@ import Table from 'react-bootstrap/Table'
 import Container from 'react-bootstrap/Container'
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
+import {Link} from 'react-router-dom'
 
 class OrderBacklog extends Component {
     render(){
@@ -26,8 +27,8 @@ class OrderBacklog extends Component {
                                         <tr>
                                             <td><b>Roles</b></td>
                                             <td>
-                                                <p>Scrum Master.</p>
-                                                <p>Product Owner.</p>
+                                                <Link redirect to="scrum_master"><p>Scrum Master</p></Link>
+                                                <Link redirect to="product_owner"><p>Product Owner</p></Link>
                                                 <p>Dev Team.</p>
                                             </td>
                                         </tr>

@@ -4,9 +4,8 @@ import Table from 'react-bootstrap/Table'
 import Container from 'react-bootstrap/Container'
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
-import {Link} from 'react-router-dom'
 
-class A24UpdateUsersManual extends Component {
+class ScrumMaster extends Component {
     render(){
         return (
             <div>
@@ -14,36 +13,24 @@ class A24UpdateUsersManual extends Component {
                 <br />
                 <Container>
                     <div>
-                        <h1>Software Development and Maintenance</h1>
+                        <h1>Scrum Master</h1>
                         <br/>
                         <Row>
                             <Col md lg="8">
                                 <Table>
-                                    <thead>
-                                        <th>Activity</th>
-                                        <th>A5.6 Update the User's Manual</th>
-                                    </thead>
                                     <tbody>
                                         <tr>
-                                            <td><b>Roles</b></td>
+                                            <td>Role Description</td>
                                             <td>
-                                                <p>Developer.</p>
+                                                <p>The Scrum Master is responsible for promoting and supporting Scrum. Scrum Masters do this by helping everyone understand Scrum theory, 
+                                                    practices, rules, and values. The Scrum Master is a servant-leader for the Scrum Team. The Scrum Master helps those outside the Scrum 
+                                                    Team understand which of their interactions with the Scrum Team are helpful and which aren’t. The Scrum Master helps everyone change 
+                                                    these interactions to maximize the value created by the Scrum Team.</p>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td><b>Brief Description</b></td>
+                                            <td>Required Training</td>
                                             <td></td>
-                                        </tr>
-                                        <tr>
-                                            <td><b>Inputs</b></td>
-                                            <td>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td><b>Outputs</b></td>
-                                            <td>
-                                                <p>User's Manual</p>
-                                            </td>
                                         </tr>
                                     </tbody>
                                 </Table>
@@ -58,4 +45,4 @@ class A24UpdateUsersManual extends Component {
 }
 
 
-export default A24UpdateUsersManual
+export default ScrumMaster

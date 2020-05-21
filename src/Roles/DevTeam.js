@@ -4,9 +4,8 @@ import Table from 'react-bootstrap/Table'
 import Container from 'react-bootstrap/Container'
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
-import {Link} from 'react-router-dom'
 
-class A24UpdateUsersManual extends Component {
+class ProductOwner extends Component {
     render(){
         return (
             <div>
@@ -14,36 +13,22 @@ class A24UpdateUsersManual extends Component {
                 <br />
                 <Container>
                     <div>
-                        <h1>Software Development and Maintenance</h1>
+                        <h1>Dev Team</h1>
                         <br/>
                         <Row>
                             <Col md lg="8">
                                 <Table>
-                                    <thead>
-                                        <th>Activity</th>
-                                        <th>A5.6 Update the User's Manual</th>
-                                    </thead>
                                     <tbody>
                                         <tr>
-                                            <td><b>Roles</b></td>
+                                            <td>Role Description</td>
                                             <td>
-                                                <p>Developer.</p>
+                                                <p>Product owner is a scrum development role for a person who represents the business or user community and is responsible 
+                                                    for working with the user group to determine what features will be in the product release.</p>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td><b>Brief Description</b></td>
+                                            <td>Required Training</td>
                                             <td></td>
-                                        </tr>
-                                        <tr>
-                                            <td><b>Inputs</b></td>
-                                            <td>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td><b>Outputs</b></td>
-                                            <td>
-                                                <p>User's Manual</p>
-                                            </td>
                                         </tr>
                                     </tbody>
                                 </Table>
@@ -58,4 +43,4 @@ class A24UpdateUsersManual extends Component {
 }
 
 
-export default A24UpdateUsersManual
+export default ProductOwner

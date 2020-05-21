@@ -51,6 +51,9 @@ import A27ReviewMaintenanceManual from './SoftwareDevelopment/A27ReviewMaintenan
 import A28SprintReview from './SoftwareDevelopment/A28SprintReview'
 import A29SprintRetrospective from './SoftwareDevelopment/A29SprintRetrospective'
 
+import ScrumMaster from './Roles/ScrumMaster'
+import ProductOwner from './Roles/ProductOwner'
+
 const Index = () => (
     <BrowserRouter>
         <Switch>
@@ -107,6 +110,10 @@ const Index = () => (
             <Route path="/sd_review_maintenance_manual/" component={A27ReviewMaintenanceManual} exact />
             <Route path="/sd_sprint_review/" component={A28SprintReview} exact />
             <Route path="/sd_sprint_retrospective/" component={A29SprintRetrospective} exact />
+
+            {/* Roles */}
+            <Route path="/scrum_master/" component={ScrumMaster} exact />
+            <Route path="/product_owner/" component={ProductOwner} exact />
             
         </Switch>
     </BrowserRouter>
