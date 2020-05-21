@@ -31,7 +31,9 @@ class A20MergeTestedComponents extends Component {
                                         </tr>
                                         <tr>
                                             <td><b>Brief Description</b></td>
-                                            <td></td>
+                                            <td>
+                                                <p>The developers update the main branch for development in the configuration management system, and update their state in the task manager.</p>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <td><b>Inputs</b></td>

@@ -31,7 +31,9 @@ class A19PerformIntegrationTesting extends Component {
                                         </tr>
                                         <tr>
                                             <td><b>Brief Description</b></td>
-                                            <td></td>
+                                            <td>
+                                                <p>The QA integrates the components in the Software system and apply the tests following the Integration Testing Plan.  Documents the results in an Integration Test Report. Correct the defects found, based on the report, until achieving an integration test without defects.</p>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <td><b>Inputs</b></td>

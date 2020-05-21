@@ -31,7 +31,9 @@ class A18IntegrateUserStories extends Component {
                                         </tr>
                                         <tr>
                                             <td><b>Brief Description</b></td>
-                                            <td></td>
+                                            <td>
+                                                <p>The developers integrates the code written for the user story in the configuration management system. In other words the component is added to the whole system when it is already working.</p>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <td><b>Inputs</b></td>

@@ -31,7 +31,9 @@ class A15AddHighlevelDesign extends Component {
                                         </tr>
                                         <tr>
                                             <td><b>Brief Description</b></td>
-                                            <td></td>
+                                            <td>
+                                                <p>The developers add the high-level design to the configuration management system, and the QA adds the Integration Testing Plan to the configuration management system.</p>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <td><b>Inputs</b></td>

@@ -31,7 +31,9 @@ class A17ReviewTraceability extends Component {
                                         </tr>
                                         <tr>
                                             <td><b>Brief Description</b></td>
-                                            <td></td>
+                                            <td>
+                                                <p>The developer reviews the traceability of the code in the configuration management system to the requirements.</p>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <td><b>Inputs</b></td>
