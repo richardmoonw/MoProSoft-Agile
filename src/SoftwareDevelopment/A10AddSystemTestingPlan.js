@@ -32,7 +32,9 @@ class A10AddSystemTestingPlan extends Component {
                                         </tr>
                                         <tr>
                                             <td><b>Brief Description</b></td>
-                                            <td></td>
+                                            <td>
+                                                <p>The QA add the System Testing Plan and User’s Manual to the configuration management system.</p>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <td><b>Inputs</b></td>

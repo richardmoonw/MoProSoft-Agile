@@ -32,7 +32,9 @@ class A11MakeMockups extends Component {
                                         </tr>
                                         <tr>
                                             <td><b>Brief Description</b></td>
-                                            <td></td>
+                                            <td>
+                                                <p>Based on the requirements specified in the user story, the Developer creates mockups & high level design to make easier and more effective coding.</p>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <td><b>Inputs</b></td>

@@ -32,7 +32,9 @@ class A25AddFinalChanges extends Component {
                                         </tr>
                                         <tr>
                                             <td><b>Brief Description</b></td>
-                                            <td></td>
+                                            <td>
+                                                <p>The developers prepare the Activity Report recording the activities carried out with their start and end dates.</p>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <td><b>Inputs</b></td>

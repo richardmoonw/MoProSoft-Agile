@@ -32,7 +32,9 @@ class A16DevelopComponents extends Component {
                                         </tr>
                                         <tr>
                                             <td><b>Brief Description</b></td>
-                                            <td></td>
+                                            <td>
+                                                <p>In this activity the Developer codes the stories with the Test Driven Development approach. This approach basically implies that the Test Cases are coded in the automated testing system before writing code.</p>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <td><b>Inputs</b></td>

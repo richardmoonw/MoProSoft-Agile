@@ -35,7 +35,7 @@ class SprintReview extends Component {
                                         <tr>
                                             <td><b>Brief Description</b></td>
                                             <td>
-                                                <p>The developer chooses a story from the backlog in the task manager, notifies that they are working on the story, and adds a branch to the configuration management system. The branch is traceable to the user story using some kind of identifier.</p>
+                                                <p>At the end of the sprint, the Scrum Master reviews the software developed in presence of the Dev Team and the Product Owner. If the product owner finds during the demo that the software doesn’t comply to what they were expecting, a change may be done for the next sprints and a Change Request is written up.</p>
                                             </td>
                                         </tr>
                                         <tr>

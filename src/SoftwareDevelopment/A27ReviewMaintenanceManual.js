@@ -32,7 +32,9 @@ class A27ReviewMaintenanceManual extends Component {
                                         </tr>
                                         <tr>
                                             <td><b>Brief Description</b></td>
-                                            <td></td>
+                                            <td>
+                                                <p>The developers correct the defects found in the Maintenance Manual based on the Verification Report and obtain approval for corrections.</p>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <td><b>Inputs</b></td>

@@ -21,7 +21,7 @@ class A8ReviewUsersManual extends Component {
                                 <Table>
                                     <thead>
                                         <th>Activity</th>
-                                        <th>A2.7 Review the User's Manual</th>
+                                        <th>A2.7 & A5.7 Review the User's Manual</th>
                                     </thead>
                                     <tbody>
                                         <tr>
@@ -32,7 +32,9 @@ class A8ReviewUsersManual extends Component {
                                         </tr>
                                         <tr>
                                             <td><b>Brief Description</b></td>
-                                            <td></td>
+                                            <td>
+                                                <p>A developer makes or reworks the User’s Manual.</p>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <td><b>Inputs</b></td>

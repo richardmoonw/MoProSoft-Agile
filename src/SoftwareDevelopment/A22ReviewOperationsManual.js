@@ -32,7 +32,9 @@ class A22ReviewOperationsManual extends Component {
                                         </tr>
                                         <tr>
                                             <td><b>Brief Description</b></td>
-                                            <td></td>
+                                            <td>
+                                                <p>The developers correct the defects found in the Operation Manual based on the Verification Report and obtain the approval of the corrections.</p>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <td><b>Inputs</b></td>

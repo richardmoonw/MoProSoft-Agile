@@ -32,7 +32,9 @@ class A5MakeSystemTesting extends Component {
                                         </tr>
                                         <tr>
                                             <td><b>Brief Description</b></td>
-                                            <td></td>
+                                            <td>
+                                                <p>The QA department makes the System Testing Plan or reworks it if needed.</p>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <td><b>Inputs</b></td>

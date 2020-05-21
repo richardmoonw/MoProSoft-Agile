@@ -32,7 +32,9 @@ class A6ReviewSystemTesting extends Component {
                                         </tr>
                                         <tr>
                                             <td><b>Brief Description</b></td>
-                                            <td></td>
+                                            <td>
+                                                <p>The QA department reviews the Testing Plan, and makes changes if needed.</p>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <td><b>Inputs</b></td>

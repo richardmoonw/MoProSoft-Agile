@@ -32,7 +32,9 @@ class A23PerformSystemTesting extends Component {
                                         </tr>
                                         <tr>
                                             <td><b>Brief Description</b></td>
-                                            <td></td>
+                                            <td>
+                                                <p>The QA performs the system tests following the System Test Plan, documenting the results in a System Test Report.</p>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <td><b>Inputs</b></td>
