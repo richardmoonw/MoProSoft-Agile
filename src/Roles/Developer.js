@@ -29,7 +29,14 @@ class Developer extends Component {
                                         </tr>
                                         <tr>
                                             <td>Required Training</td>
-                                            <td></td>
+                                            <td>
+                                                <ul>
+                                                    <li>Experience on Scrum and XP desirable.</li>
+                                                    <li>Training on Test Driven Development and Testing.</li>
+                                                    <li>Training on Software Documentation.</li>
+                                                    <li>Training on the guidelines of quality and processes exclusive to the company.</li>
+                                                </ul>
+                                            </td>
                                         </tr>
                                     </tbody>
                                 </Table>

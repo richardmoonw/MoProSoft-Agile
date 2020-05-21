@@ -30,7 +30,15 @@ class ScrumMaster extends Component {
                                         </tr>
                                         <tr>
                                             <td>Required Training</td>
-                                            <td></td>
+                                            <td>
+                                                <ul>
+                                                    <li>Experience in Scrum or certification in scrum master.</li>
+                                                    <li>Experience with Management.</li>
+                                                    <li>Experience with Human Resources.</li>
+                                                    <li>Some Project Management experience may be helpful.</li>
+                                                    <li>Training with communication and teamwork skills.</li>
+                                                </ul>
+                                            </td>
                                         </tr>
                                     </tbody>
                                 </Table>

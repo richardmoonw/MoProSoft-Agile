@@ -31,7 +31,15 @@ class DevTeam extends Component {
                                         </tr>
                                         <tr>
                                             <td>Required Training</td>
-                                            <td></td>
+                                            <td>
+                                                <ul>
+                                                    <li>Experience on Scrum and XP desirable.</li>
+                                                    <li>Training on Test Driven Development and Testing.</li>
+                                                    <li>Training on Software Documentation.</li>
+                                                    <li>Training on the guidelines of quality and processes exclusive to the company.</li>
+                                                    <li>Training on User Experience and up-to-date standards of human-computer interface and interaction.</li>
+                                                </ul>
+                                            </td>
                                         </tr>
                                     </tbody>
                                 </Table>

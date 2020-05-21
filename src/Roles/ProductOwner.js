@@ -28,7 +28,12 @@ class ProductOwner extends Component {
                                         </tr>
                                         <tr>
                                             <td>Required Training</td>
-                                            <td></td>
+                                            <td>
+                                                <ul>
+                                                    <li>Training on requirements elicitation.</li>
+                                                    <li>Training on representation of organizational needs.</li>
+                                                </ul>
+                                            </td>
                                         </tr>
                                     </tbody>
                                 </Table>

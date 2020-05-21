@@ -28,7 +28,15 @@ class QA extends Component {
                                         </tr>
                                         <tr>
                                             <td>Required Training</td>
-                                            <td></td>
+                                            <td>
+                                                <ul>
+                                                    <li>Experience on Testing: Integration Testing, System Testing.</li>
+                                                    <li>Training on design of Testing.</li>
+                                                    <li>Training on the guidelines of quality and processes exclusive to the company.</li>
+                                                    <li>Training on quality software.</li>
+                                                    <li>Training on testing documentation: generate reports.</li>
+                                                </ul>
+                                            </td>
                                         </tr>
                                     </tbody>
                                 </Table>
