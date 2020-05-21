@@ -33,7 +33,9 @@ class A28SprintReview extends Component {
                                         </tr>
                                         <tr>
                                             <td><b>Brief Description</b></td>
-                                            <td></td>
+                                            <td>
+                                                <p>At the end of the sprint, the Scrum Master reviews the software developed in presence of the Dev Team and the Product Owner. If the product owner finds during the demo that the software doesn’t comply to what they were expecting, a change may be done for the next sprints and a Change Request is written up.</p>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <td><b>Inputs</b></td>

@@ -20,7 +20,7 @@ class A29SprintRetrospective extends Component {
                                 <Table>
                                     <thead>
                                         <th>Activity</th>
-                                        <th>A6.3 Sprint Retrospective</th>
+                                        <th>A6.4 Sprint Retrospective</th>
                                     </thead>
                                     <tbody>
                                         <tr>
@@ -32,7 +32,9 @@ class A29SprintRetrospective extends Component {
                                         </tr>
                                         <tr>
                                             <td><b>Brief Description</b></td>
-                                            <td></td>
+                                            <td>
+                                                <p>In this activity the Scrum Master and the Dev Team look back to the last weeks of the sprint to analyze opportunities of improvement for the following sprint.</p>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <td><b>Inputs</b></td>

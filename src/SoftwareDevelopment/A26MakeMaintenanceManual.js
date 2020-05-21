@@ -31,7 +31,9 @@ class A26MakeMaintenanceManual extends Component {
                                         </tr>
                                         <tr>
                                             <td><b>Brief Description</b></td>
-                                            <td></td>
+                                            <td>
+                                                <p>The developers document the Maintenance manual or modify the existing one.</p>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <td><b>Inputs</b></td>
