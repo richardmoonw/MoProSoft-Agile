@@ -32,7 +32,9 @@ class ReviewTraceability extends Component {
                                         </tr>
                                         <tr>
                                             <td><b>Brief Description</b></td>
-                                            <td></td>
+                                            <td>
+                                                <p>The Scrum Master and the dev team ensure that the user stories are identified so that they can be traced later in the development.</p>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <td><b>Inputs</b></td>

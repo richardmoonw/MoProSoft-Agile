@@ -32,7 +32,9 @@ class ReviewBurnDown extends Component {
                                         </tr>
                                         <tr>
                                             <td><b>Brief Description</b></td>
-                                            <td></td>
+                                            <td>
+                                                <p>The Scrum Master reviews the Burndown chart to measure the progress, and if needed consult the Dev Team to make adjustments needed to deliver on time the working software planned for the team.</p>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <td><b>Inputs</b></td>

@@ -32,7 +32,9 @@ class SprintRetrospective extends Component {
                                         </tr>
                                         <tr>
                                             <td><b>Brief Description</b></td>
-                                            <td></td>
+                                            <td>
+                                                <p>In this activity the Scrum Master and the Dev Team look back to the last weeks of the sprint to analyze opportunities of improvement for the following sprint.</p>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <td><b>Inputs</b></td>

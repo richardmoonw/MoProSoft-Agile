@@ -32,7 +32,9 @@ class AssignStories extends Component {
                                         </tr>
                                         <tr>
                                             <td><b>Brief Description</b></td>
-                                            <td></td>
+                                            <td>
+                                                <p>The programmers from the Dev Team, organized by the Scrum Master, choose the stories that each of them wants to finish during the sprint span.</p>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <td><b>Inputs</b></td>

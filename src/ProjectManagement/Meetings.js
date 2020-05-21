@@ -32,7 +32,9 @@ class Meetings extends Component {
                                         </tr>
                                         <tr>
                                             <td><b>Brief Description</b></td>
-                                            <td></td>
+                                            <td>
+                                                <p>Everyday there’s a meeting, first thing in the morning. The Scrum Master and the Dev Team review the progress made by the dev team, the programmers are asked for roadblocks that make impossible the fulfillment of a story, and may update the Sprint Board.</p>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <td><b>Inputs</b></td>
