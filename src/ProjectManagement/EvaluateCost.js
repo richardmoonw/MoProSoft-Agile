@@ -33,7 +33,9 @@ class EvaluateCost extends Component {
                                         </tr>
                                         <tr>
                                             <td><b>Brief Description</b></td>
-                                            <td></td>
+                                            <td>
+                                                <p>The Scrum Master and the Product Owner evaluate and document the estimated cost of the project.</p>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <td><b>Inputs</b></td>

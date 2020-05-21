@@ -34,7 +34,9 @@ class IdentifyStories extends Component {
                                         </tr>
                                         <tr>
                                             <td><b>Brief Description</b></td>
-                                            <td></td>
+                                            <td>
+                                                <p>The product owner describes to the dev team and the scrum master the User Stories, # of sprints and schedule deliveries.</p>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <td><b>Inputs</b></td>

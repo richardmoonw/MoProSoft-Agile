@@ -33,7 +33,9 @@ class AssignResources extends Component {
                                         </tr>
                                         <tr>
                                             <td><b>Brief Description</b></td>
-                                            <td></td>
+                                            <td>
+                                                <p>The Scrum Master assigns human resources, materials and tools for the project. The Dev Team may help.</p>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <td><b>Inputs</b></td>

@@ -34,7 +34,9 @@ class BacklogGrooming extends Component {
                                         </tr>
                                         <tr>
                                             <td><b>Brief Description</b></td>
-                                            <td></td>
+                                            <td>
+                                                <p>The Scrum Master, Product Owner and Dev team read the Backlog stories and perform improvements by clarifying ambiguities and adding stories as needed.</p>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <td><b>Inputs</b></td>

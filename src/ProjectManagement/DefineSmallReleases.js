@@ -33,7 +33,9 @@ class DefineSmallReleases extends Component {
                                         </tr>
                                         <tr>
                                             <td><b>Brief Description</b></td>
-                                            <td></td>
+                                            <td>
+                                                <p>The scrum master and the product owner set the releases for the sprints prioritizing what the product owner defines as the most useful features, with a high level description.</p>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <td><b>Inputs</b></td>

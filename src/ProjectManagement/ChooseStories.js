@@ -33,7 +33,9 @@ class ChooseStories extends Component {
                                         </tr>
                                         <tr>
                                             <td><b>Brief Description</b></td>
-                                            <td></td>
+                                            <td>
+                                                <p>The Scrum Master and the Dev Team choose the user stories to work with for the sprint that is about to start.</p>
+                                            </td>
                                         </tr>
                                         <tr>
                                             <td><b>Inputs</b></td>
