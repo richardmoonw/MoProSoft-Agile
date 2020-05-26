@@ -39,12 +39,13 @@ class A26MakeMaintenanceManual extends Component {
                                         <tr>
                                             <td><b>Inputs</b></td>
                                             <td>
+                                                <Link redirect to="tem_maintenance_manual"><p>Maintenance Manual (Optional)</p></Link>
                                             </td>
                                         </tr>
                                         <tr>
                                             <td><b>Outputs</b></td>
                                             <td>
-                                                <p>Maintenance Manual</p>
+                                                <Link redirect to="tem_maintenance_manual"><p>Maintenance Manual</p></Link>
                                             </td>
                                         </tr>
                                     </tbody>

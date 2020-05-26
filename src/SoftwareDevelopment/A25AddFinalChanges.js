@@ -39,11 +39,15 @@ class A25AddFinalChanges extends Component {
                                         <tr>
                                             <td><b>Inputs</b></td>
                                             <td>
+                                                <Link redirect to="tem_system_testing_plan_report"><p>System Testing Plan Report</p></Link>
+                                                <Link redirect to="tem_operations_manual"><p>Operations' manual</p></Link>
+                                                <Link redirect to="tem_users_manual"><p>User's Manual</p></Link>
                                             </td>
                                         </tr>
                                         <tr>
                                             <td><b>Outputs</b></td>
                                             <td>
+                                                <p>N/A</p>
                                             </td>
                                         </tr>
                                     </tbody>

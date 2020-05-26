@@ -40,7 +40,7 @@ class ReviewProjectDes extends Component {
                                         <tr>
                                             <td><b>Inputs</b></td>
                                             <td>
-                                               <p>Project Description</p>
+                                                <Link redirect to="tem_project_description"><p>Project Description</p></Link>
                                             </td>
                                         </tr>
                                         <tr>

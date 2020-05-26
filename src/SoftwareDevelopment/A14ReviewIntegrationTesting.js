@@ -39,13 +39,13 @@ class A14ReviewIntegrationTesting extends Component {
                                         <tr>
                                             <td><b>Inputs</b></td>
                                             <td>
-                                                <p>Integration testing plan</p>
+                                                <Link redirect to="tem_integration_testing_plan"><p>Integration testing plan</p></Link>
                                             </td>
                                         </tr>
                                         <tr>
                                             <td><b>Outputs</b></td>
                                             <td>
-                                                
+                                                <p>N/A</p>
                                             </td>
                                         </tr>
                                     </tbody>

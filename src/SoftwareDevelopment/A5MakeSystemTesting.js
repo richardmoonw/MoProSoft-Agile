@@ -39,13 +39,13 @@ class A5MakeSystemTesting extends Component {
                                         <tr>
                                             <td><b>Inputs</b></td>
                                             <td>
-                                               <p>Sprint backlog</p>
+                                                <Link redirect to="tem_sprint_backlog"><p>Sprint Backlog</p></Link>
                                             </td>
                                         </tr>
                                         <tr>
                                             <td><b>Outputs</b></td>
                                             <td>
-                                                <p>System Testing Plan</p>
+                                                <Link redirect to="tem_system_testing_plan"><p>System Testing Plan</p></Link>
                                             </td>
                                         </tr>
                                     </tbody>

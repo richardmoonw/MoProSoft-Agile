@@ -54,33 +54,33 @@ class SoftwareDevelopment extends Component {
                                 <Link redirect to="sd_review_rodemap"><area shape="rect" coords="128,57,231,78"/></Link>
                                 <Link redirect to="sd_backlog_grooming"><area shape="rect" coords="306,107,410,134"/></Link>
                                 <Link redirect to="sd_choose_stories"><area shape="rect" coords="306,148,410,177"/></Link>
-                                <Link redirect to="sd_assign_stories"><area shape="rect" coords="495,203,600,231"/></Link>
-                                <Link redirect to="sd_make_system_testing_plan"><area shape="rect" coords="870,253,970,281"/></Link>
-                                <Link redirect to="sd_review_system_testing_plan"><area shape="rect" coords="870,299,970,327"/></Link>
-                                <Link redirect to="sd_make_manual"><area shape="rect" coords="680,403,785,432"/></Link>
-                                <Link redirect to="sd_review_manual"><area shape="rect" coords="680,448,785,477"/></Link>
-                                <Link redirect to="sd_synchronize_management_system"><area shape="rect" coords="680,551,785,586"/></Link>
-                                <Link redirect to="sd_add_to_managment_system"><area shape="rect" coords="852,601,983,635"/></Link>
-                                <Link redirect to="sd_make_high_level_design"><area shape="rect" coords="680,653,785,681"/></Link>
-                                <Link redirect to="sd_review_high_level_design"><area shape="rect" coords="680,702,785,730"/></Link>
-                                <Link redirect to="sd_make_integration_testing_plan"><area shape="rect" coords="870,811,970,840"/></Link>
-                                <Link redirect to="sd_review_integration_testing_plan"><area shape="rect" coords="870,863,970,893"/></Link>
-                                <Link redirect to="sd_high_management_system"><area shape="rect" coords="667,980,780,1028"/></Link>
-                                <Link redirect to="sd_develop_TDD"><area shape="rect" coords="680,1048,785,1076"/></Link>
-                                <Link redirect to="sd_traceability_requirements"><area shape="rect" coords="674,1097,778,1131"/></Link>
-                                <Link redirect to="sd_stories_management_system"><area shape="rect" coords="680,1209,785,1249"/></Link>
-                                <Link redirect to="sd_perform_integration_testing"><area shape="rect" coords="870,1287,1003,1316"/></Link>
-                                <Link redirect to="sd_merge_to_main"><area shape="rect" coords="680,1385,807,1424"/></Link>
-                                <Link redirect to="sd_make_operations_manual"><area shape="rect" coords="680,1441,807,1470"/></Link>
-                                <Link redirect to="sd_review_operations_manual"><area shape="rect" coords="680,1488,807,1517"/></Link>
-                                <Link redirect to="sd_system_testing"><area shape="rect" coords="864,1592,972,1621"/></Link>
-                                <Link redirect to="sd_update_user_manual"><area shape="rect" coords="680,1682,785,1711"/></Link>
-                                <Link redirect to="sd_review_user_manual"><area shape="rect" coords="680,1735,785,1763"/></Link>
-                                <Link redirect to="sd_final_changes_managment_system"><area shape="rect" coords="670,1832,785,1870"/></Link>
-                                <Link redirect to="sd_make_maintenance_manual"><area shape="rect" coords="680,1904,785,1930"/></Link>
-                                <Link redirect to="sd_review_maintenance_manual"><area shape="rect" coords="680,1950,785,1977"/></Link>
-                                <Link redirect to="sd_sprint_review"><area shape="rect" coords="304,2040,409,2070"/></Link>
-                                <Link redirect to="sd_sprint_retrospective"><area shape="rect" coords="492,2092,591,2121"/></Link>
+                                <Link redirect to="sd_assign_stories"><area shape="rect" coords="504,203,606,231"/></Link>
+                                <Link redirect to="sd_make_system_testing_plan"><area shape="rect" coords="891,253,995,281"/></Link>
+                                <Link redirect to="sd_review_system_testing_plan"><area shape="rect" coords="891,299,995,327"/></Link>
+                                <Link redirect to="sd_make_manual"><area shape="rect" coords="697,403,802,432"/></Link>
+                                <Link redirect to="sd_review_manual"><area shape="rect" coords="697,448,802,477"/></Link>
+                                <Link redirect to="sd_synchronize_management_system"><area shape="rect" coords="697,551,802,586"/></Link>
+                                <Link redirect to="sd_add_to_managment_system"><area shape="rect" coords="877,601,1007,635"/></Link>
+                                <Link redirect to="sd_make_high_level_design"><area shape="rect" coords="697,653,802,681"/></Link>
+                                <Link redirect to="sd_review_high_level_design"><area shape="rect" coords="697,702,802,730"/></Link>
+                                <Link redirect to="sd_make_integration_testing_plan"><area shape="rect" coords="891,811,995,840"/></Link>
+                                <Link redirect to="sd_review_integration_testing_plan"><area shape="rect" coords="891,863,995,893"/></Link>
+                                <Link redirect to="sd_high_management_system"><area shape="rect" coords="694,980,804,1028"/></Link>
+                                <Link redirect to="sd_develop_TDD"><area shape="rect" coords="697,1048,802,1076"/></Link>
+                                <Link redirect to="sd_traceability_requirements"><area shape="rect" coords="700,1097,798,1131"/></Link>
+                                <Link redirect to="sd_stories_management_system"><area shape="rect" coords="697,1209,802,1249"/></Link>
+                                <Link redirect to="sd_perform_integration_testing"><area shape="rect" coords="890,1287,999,1316"/></Link>
+                                <Link redirect to="sd_merge_to_main"><area shape="rect" coords="695,1385,803,1424"/></Link>
+                                <Link redirect to="sd_make_operations_manual"><area shape="rect" coords="697,1441,802,1470"/></Link>
+                                <Link redirect to="sd_review_operations_manual"><area shape="rect" coords="697,1488,802,1517"/></Link>
+                                <Link redirect to="sd_system_testing"><area shape="rect" coords="889,1592,996,1621"/></Link>
+                                <Link redirect to="sd_update_user_manual"><area shape="rect" coords="697,1682,802,1711"/></Link>
+                                <Link redirect to="sd_review_user_manual"><area shape="rect" coords="697,1735,802,1763"/></Link>
+                                <Link redirect to="sd_final_changes_managment_system"><area shape="rect" coords="692,1832,806,1870"/></Link>
+                                <Link redirect to="sd_make_maintenance_manual"><area shape="rect" coords="697,1904,802,1930"/></Link>
+                                <Link redirect to="sd_review_maintenance_manual"><area shape="rect" coords="697,1950,802,1977"/></Link>
+                                <Link redirect to="sd_sprint_review"><area shape="rect" coords="314,2040,417,2070"/></Link>
+                                <Link redirect to="sd_sprint_retrospective"><area shape="rect" coords="503,2092,607,2121"/></Link>
                             </map>
                         </Row>
                         <br/>  

@@ -47,7 +47,7 @@ class SprintReview extends Component {
                                         <tr>
                                             <td><b>Outputs</b></td>
                                             <td>
-                                                <p>Change Request</p>
+                                                <Link redirect to="tem_change_request"><p>Change request</p></Link>
                                             </td>
                                         </tr>
                                     </tbody>

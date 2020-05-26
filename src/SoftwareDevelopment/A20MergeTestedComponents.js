@@ -39,13 +39,13 @@ class A20MergeTestedComponents extends Component {
                                         <tr>
                                             <td><b>Inputs</b></td>
                                             <td>
-                                                
+                                                <p>N/A</p>
                                             </td>
                                         </tr>
                                         <tr>
                                             <td><b>Outputs</b></td>
                                             <td>
-                                                
+                                                <p>N/A</p>
                                             </td>
                                         </tr>
                                     </tbody>

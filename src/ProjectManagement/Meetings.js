@@ -40,7 +40,7 @@ class Meetings extends Component {
                                         <tr>
                                             <td><b>Inputs</b></td>
                                             <td>
-                                               <p>Sprint Board</p>
+                                                <Link redirect to="tem_sprint_board"><p>Sprint Board</p></Link>
                                             </td>
                                         </tr>
                                         <tr>

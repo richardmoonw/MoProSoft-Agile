@@ -39,13 +39,13 @@ class A16DevelopComponents extends Component {
                                         <tr>
                                             <td><b>Inputs</b></td>
                                             <td>
-                                                <p>User stories</p>
+                                                <Link redirect to="tem_user_stories"><p>User stories</p></Link>
                                             </td>
                                         </tr>
                                         <tr>
                                             <td><b>Outputs</b></td>
                                             <td>
-                                                <p>Software</p>
+                                                <Link redirect to="tem_software"><p>Software</p></Link>
                                             </td>
                                         </tr>
                                     </tbody>

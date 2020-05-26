@@ -39,7 +39,7 @@ class A1ReviewRoadmap extends Component {
                                         <tr>
                                             <td><b>Inputs</b></td>
                                             <td>
-                                               <p>Product roadmap</p>
+                                                <Link redirect to="tem_product_roadmap"><p>Product Roadmap</p></Link>
                                             </td>
                                         </tr>
                                         <tr>

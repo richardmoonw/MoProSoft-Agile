@@ -39,13 +39,14 @@ class A10AddSystemTestingPlan extends Component {
                                         <tr>
                                             <td><b>Inputs</b></td>
                                             <td>
-                                               <p></p>
+                                                <Link redirect to="tem_system_testing_plan"><p>System Testing Plan</p></Link>
+                                                <Link redirect to="tem_users_manual"><p>User's Manual</p></Link>
                                             </td>
                                         </tr>
                                         <tr>
                                             <td><b>Outputs</b></td>
                                             <td>
-                                                <p></p>
+                                                <p>N/A</p>
                                             </td>
                                         </tr>
                                     </tbody>

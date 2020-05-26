@@ -39,13 +39,13 @@ class A19PerformIntegrationTesting extends Component {
                                         <tr>
                                             <td><b>Inputs</b></td>
                                             <td>
-                                                <p>Integration Testing Plan</p>
+                                                <Link redirect to="tem_integration_testing_plan"><p>Integration testing plan</p></Link>
                                             </td>
                                         </tr>
                                         <tr>
                                             <td><b>Outputs</b></td>
                                             <td>
-                                                <p>Integration Testing Report Plan</p>
+                                                <Link redirect to="tem_integration_testing_plan_report"><p>Integration testing plan report</p></Link>
                                             </td>
                                         </tr>
                                     </tbody>

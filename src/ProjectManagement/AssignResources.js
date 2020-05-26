@@ -40,7 +40,7 @@ class AssignResources extends Component {
                                         <tr>
                                             <td><b>Inputs</b></td>
                                             <td>
-                                               <p>Product Backlog</p>
+                                                <Link redirect to="tem_product_backlog"><p>Product Backlog</p></Link>
                                             </td>
                                         </tr>
                                         <tr>

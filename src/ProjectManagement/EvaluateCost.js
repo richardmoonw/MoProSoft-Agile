@@ -40,12 +40,14 @@ class EvaluateCost extends Component {
                                         <tr>
                                             <td><b>Inputs</b></td>
                                             <td>
-                                               <p>Product Backlog</p>
+                                                <Link redirect to="tem_product_backlog"><p>Product Backlog</p></Link>
                                             </td>
                                         </tr>
                                         <tr>
                                             <td><b>Outputs</b></td>
-                                            <td>Estimated Cost</td>
+                                            <td>
+                                                <Link redirect to="tem_estimated_cost"><p>Estimated cost</p></Link>
+                                            </td>
                                         </tr>
                                     </tbody>
                                 </Table>
