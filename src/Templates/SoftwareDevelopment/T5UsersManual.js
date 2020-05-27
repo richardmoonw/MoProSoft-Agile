@@ -30,7 +30,7 @@ class T5UsersManual extends Component {
                                         <tr>
                                             <td><b>Template</b></td>
                                             <td>
-                                                <a href="https://docs.google.com/document/d/18nhBkH6hx04jeRC5zUkX9FGOV53g6rOJhia4m5lQ4FE/edit?usp=sharing">Work Product Template</a>
+                                                <a href="https://docs.google.com/document/d/18nhBkH6hx04jeRC5zUkX9FGOV53g6rOJhia4m5lQ4FE/edit?usp=sharing">User's Manual Template</a>
                                             </td>
                                         </tr>
                                     </tbody>

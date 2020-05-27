@@ -28,7 +28,7 @@ class T14MaintenanceManual extends Component {
                                         <tr>
                                             <td>Template</td>
                                             <td>
-                                                <p></p>
+                                                <a href="https://docs.google.com/document/d/1E8inGu60SWz3A3P5WB2OOBoKru7R7cOmRbr_dRHGXRI/edit?usp=sharing">Maintenance Manual Template</a>
                                             </td>
                                         </tr>
                                     </tbody>

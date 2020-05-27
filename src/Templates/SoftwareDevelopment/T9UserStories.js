@@ -28,7 +28,7 @@ class T9UserStories extends Component {
                                         <tr>
                                             <td>Template</td>
                                             <td>
-                                                <p></p>
+                                                <a href="https://docs.google.com/document/d/1G9XUSK9Fk4XszqYzq39kKbfdLCIP-Yx75txV-yJgoGA/edit?usp=sharing">User Stories Guideline</a>
                                             </td>
                                         </tr>
                                     </tbody>

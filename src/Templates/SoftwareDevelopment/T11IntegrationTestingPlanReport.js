@@ -28,7 +28,7 @@ class T11IntegrationTestingPlanReport extends Component {
                                         <tr>
                                             <td>Template</td>
                                             <td>
-                                                <p></p>
+                                                <a href="https://docs.google.com/document/d/10NaFsGboyEeSBBHpSJTMiLGDNC0kdEGRM9lgZbqhAZo/edit?usp=sharing">Integration Testing Report Plan Template</a>
                                             </td>
                                         </tr>
                                     </tbody>

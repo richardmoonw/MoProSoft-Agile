@@ -28,7 +28,7 @@ class T3SprintBacklog extends Component {
                                         <tr>
                                             <td>Template</td>
                                             <td>
-                                                <p></p>
+                                                <a href="https://docs.google.com/document/d/1Fahled5vdwNi5eD9q6zooZ4QbF3QXDxnC3LvdJlFI2U/edit?usp=sharing">Sprint Backlog Guideline</a>
                                             </td>
                                         </tr>
                                     </tbody>

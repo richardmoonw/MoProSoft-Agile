@@ -28,7 +28,7 @@ class T2ProductBacklog extends Component {
                                         <tr>
                                             <td>Template</td>
                                             <td>
-                                                <p></p>
+                                                <a href="https://docs.google.com/document/d/1SxHhFnQAS5z-sWdnCnO5zMXUcLcmkoBT-yaLn9ZEwO4/edit?usp=sharing">Product Backlog Guideline</a>
                                             </td>
                                         </tr>
                                     </tbody>

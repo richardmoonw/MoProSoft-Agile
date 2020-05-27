@@ -28,7 +28,7 @@ class T5BurndownChart extends Component {
                                         <tr>
                                             <td>Template</td>
                                             <td>
-                                                <p></p>
+                                                <a href="https://docs.google.com/document/d/1aLOvpLUcF1S3fJsEi6RuOhPrNcxQvdI8ZcXjv7Idpuw/edit">Burn Down Chart Guideline</a>
                                             </td>
                                         </tr>
                                     </tbody>

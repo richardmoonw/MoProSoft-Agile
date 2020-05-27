@@ -28,7 +28,7 @@ class T4SprintBoard extends Component {
                                         <tr>
                                             <td>Template</td>
                                             <td>
-                                                <p></p>
+                                                <a href="https://docs.google.com/document/d/1XUzyreDe4VmFGlinKgKi6F6SOVcMHmnjLbR3Z-eGTHc/edit?usp=sharing">Sprint Board Guideline</a>
                                             </td>
                                         </tr>
                                     </tbody>

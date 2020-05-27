@@ -28,7 +28,7 @@ class T8IntegrationTestingPlan extends Component {
                                         <tr>
                                             <td>Template</td>
                                             <td>
-                                                <p></p>
+                                                <a href="https://docs.google.com/document/d/1HaJK_0AjjxJ--rO3GiddWyrcuhFTGtR-pWKUdgHGe40/edit?usp=sharing">Integration Testing Plan Template</a>
                                             </td>
                                         </tr>
                                     </tbody>

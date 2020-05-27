@@ -28,7 +28,7 @@ class T13SystemTestingPlanReport extends Component {
                                         <tr>
                                             <td>Template</td>
                                             <td>
-                                                <p></p>
+                                                <a href="https://docs.google.com/document/d/1biieOIN9GL77ZwBZeM2txYw9mXdZ5ly_CHvecrsZk4g/edit?usp=sharing">System Testing Plan Report Template</a>
                                             </td>
                                         </tr>
                                     </tbody>

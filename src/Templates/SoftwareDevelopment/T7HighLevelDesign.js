@@ -28,7 +28,7 @@ class T7HighLevelDesign extends Component {
                                         <tr>
                                             <td>Template</td>
                                             <td>
-                                                <p></p>
+                                                <a href="https://docs.google.com/document/d/1oJrEinshDJXCeLaiumkz-1Y0CZyxC2k6kmxC0mfpzuw/edit?usp=sharing">High Level Design Template</a>
                                             </td>
                                         </tr>
                                     </tbody>

@@ -28,7 +28,7 @@ class T3EstimatedCost extends Component {
                                         <tr>
                                             <td>Template</td>
                                             <td>
-                                                <p></p>
+                                                <a href="https://docs.google.com/document/d/1vI1JElftjLi2w1P6oo2lazUIeP68CjreRV1sBkwY2BE/edit?usp=sharing">Estimated Cost Template</a>
                                             </td>
                                         </tr>
                                     </tbody>

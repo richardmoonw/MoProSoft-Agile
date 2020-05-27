@@ -28,7 +28,7 @@ class T1ProductRoadmap extends Component {
                                         <tr>
                                             <td>Template</td>
                                             <td>
-                                                <p></p>
+                                                <a href="https://docs.google.com/document/d/14Emp5TTA9w7C59gfG13XWRFpN4uUkSVCz2U2EtMuS88/edit">Product Roadmap Guideline</a>
                                             </td>
                                         </tr>
                                     </tbody>

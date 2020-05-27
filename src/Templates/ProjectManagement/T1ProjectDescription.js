@@ -28,7 +28,7 @@ class T1ProjectDescription extends Component {
                                         <tr>
                                             <td>Template</td>
                                             <td>
-                                                <p></p>
+                                                <a href="https://docs.google.com/document/d/1bElXvfw1pdcMqWdNKdC3sjsqiY5GlqkDDB5cprZ_Hw4/edit?usp=sharing">Project Description Template</a>
                                             </td>
                                         </tr>
                                     </tbody>

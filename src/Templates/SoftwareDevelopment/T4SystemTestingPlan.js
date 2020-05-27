@@ -30,7 +30,7 @@ class T4SystemTestingPlan extends Component {
                                         <tr>
                                             <td><b>Template</b></td>
                                             <td>
-                                                <a href="https://docs.google.com/document/d/1SsilsBFKTb2SVrn8e8FvjwLzZQ0dlTJJidKM5xIJdTA/edit?usp=sharing">Work Product Template</a>
+                                                <a href="https://docs.google.com/document/d/1SsilsBFKTb2SVrn8e8FvjwLzZQ0dlTJJidKM5xIJdTA/edit?usp=sharing">System Testing Plan Template</a>
                                             </td>
                                         </tr>
                                     </tbody>

@@ -28,7 +28,7 @@ class T2DeliveriesSchedule extends Component {
                                         <tr>
                                             <td>Template</td>
                                             <td>
-                                                <p></p>
+                                                <a href="https://docs.google.com/document/d/1vaBw8YrXGRCuifZQ48P6HUAU5yru3LFJEQpn96LTvow/edit?usp=sharing">Deliveries' Schedule Template</a>
                                             </td>
                                         </tr>
                                     </tbody>
