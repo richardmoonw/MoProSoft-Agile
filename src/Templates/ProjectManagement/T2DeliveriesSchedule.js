@@ -20,13 +20,14 @@ class T2DeliveriesSchedule extends Component {
                                 <Table>
                                     <tbody>
                                         <tr>
-                                            <td>Brief Description</td>
+                                            <td><b>Brief Description</b></td>
                                             <td>
-                                                <p></p>
+                                                <p>This document specifies the time for delivery of software functionalities from a supplier to a customer. 
+                                                    The schedule is usually divided into sprints.</p>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td>Template</td>
+                                            <td><b>Template</b></td>
                                             <td>
                                                 <a href="https://docs.google.com/document/d/1vaBw8YrXGRCuifZQ48P6HUAU5yru3LFJEQpn96LTvow/edit?usp=sharing">Deliveries' Schedule Template</a>
                                             </td>

@@ -40,7 +40,7 @@ class ReviewBurnDown extends Component {
                                         <tr>
                                             <td><b>Inputs</b></td>
                                             <td>
-                                               <p>Burn Down chart</p>
+                                                <Link redirect to="tem_burndown_chart"><p>Burn Down Chart</p></Link>
                                             </td>
                                         </tr>
                                         <tr>

@@ -20,13 +20,14 @@ class T2ProductBacklog extends Component {
                                 <Table>
                                     <tbody>
                                         <tr>
-                                            <td>Brief Description</td>
+                                            <td><b>Brief Description</b></td>
                                             <td>
-                                                <p></p>
+                                                <p>A product backlog is a list of the new features, changes to existing features, bug fixes, infrastructure changes or 
+                                                    other activities that a team may deliver in order to achieve a specific outcome.</p>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td>Template</td>
+                                            <td><b>Template</b></td>
                                             <td>
                                                 <a href="https://docs.google.com/document/d/1SxHhFnQAS5z-sWdnCnO5zMXUcLcmkoBT-yaLn9ZEwO4/edit?usp=sharing">Product Backlog Guideline</a>
                                             </td>

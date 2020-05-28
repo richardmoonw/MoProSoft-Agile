@@ -20,15 +20,15 @@ class T10Software extends Component {
                                 <Table>
                                     <tbody>
                                         <tr>
-                                            <td>Brief Description</td>
+                                            <td><b>Brief Description</b></td>
                                             <td>
-                                                <p></p>
+                                                <p>Software is a set of instructions, data or programs used to operate computers and execute specific tasks.</p>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td>Template</td>
+                                            <td><b>Template</b></td>
                                             <td>
-                                                <p></p>
+                                                <p>N/A</p>
                                             </td>
                                         </tr>
                                     </tbody>

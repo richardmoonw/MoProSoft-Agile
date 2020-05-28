@@ -167,6 +167,7 @@ const Index = () => (
             <Route path="/tem_deliveries_schedule/" component={T2DeliveriesSchedule} exact />
             <Route path="/tem_estimated_cost/" component={T3EstimatedCost} exact />
             <Route path="/tem_sprint_board/" component={T4SprintBoard} exact />
+            <Route path="/tem_burndown_chart" component={T5BurndownChart} exact />
 
 
         </Switch>

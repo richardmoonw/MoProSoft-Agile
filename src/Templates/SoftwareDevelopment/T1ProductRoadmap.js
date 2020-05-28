@@ -20,13 +20,14 @@ class T1ProductRoadmap extends Component {
                                 <Table>
                                     <tbody>
                                         <tr>
-                                            <td>Brief Description</td>
+                                            <td><b>Brief Description</b></td>
                                             <td>
-                                                <p></p>
+                                                <p>A product roadmap is a high-level visual summary that maps out the vision and direction of your product 
+                                                    offering over time. A product roadmap communicates the why and what behind what you're building. </p>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td>Template</td>
+                                            <td><b>Template</b></td>
                                             <td>
                                                 <a href="https://docs.google.com/document/d/14Emp5TTA9w7C59gfG13XWRFpN4uUkSVCz2U2EtMuS88/edit">Product Roadmap Guideline</a>
                                             </td>

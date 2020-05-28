@@ -20,13 +20,14 @@ class T1ProjectDescription extends Component {
                                 <Table>
                                     <tbody>
                                         <tr>
-                                            <td>Brief Description</td>
+                                            <td><b>Brief Description</b></td>
                                             <td>
-                                                <p></p>
+                                                <p>This document provides the details of the problem the project will address, a set of goals for the project and 
+                                                    the overall objectives for the project.</p>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td>Template</td>
+                                            <td><b>Template</b></td>
                                             <td>
                                                 <a href="https://docs.google.com/document/d/1bElXvfw1pdcMqWdNKdC3sjsqiY5GlqkDDB5cprZ_Hw4/edit?usp=sharing">Project Description Template</a>
                                             </td>

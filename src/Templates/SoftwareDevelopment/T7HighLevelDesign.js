@@ -20,13 +20,15 @@ class T7HighLevelDesign extends Component {
                                 <Table>
                                     <tbody>
                                         <tr>
-                                            <td>Brief Description</td>
+                                            <td><b>Brief Description</b></td>
                                             <td>
-                                                <p></p>
+                                                <p>High-level design explains the architecture that would be used for developing a software product. These 
+                                                    diagrams provide an overview of an entire system, identifying the main components that would be developed for the 
+                                                    product and their interfaces.</p>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td>Template</td>
+                                            <td><b>Template</b></td>
                                             <td>
                                                 <a href="https://docs.google.com/document/d/1oJrEinshDJXCeLaiumkz-1Y0CZyxC2k6kmxC0mfpzuw/edit?usp=sharing">High Level Design Template</a>
                                             </td>

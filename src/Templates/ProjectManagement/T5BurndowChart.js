@@ -20,13 +20,14 @@ class T5BurndownChart extends Component {
                                 <Table>
                                     <tbody>
                                         <tr>
-                                            <td>Brief Description</td>
+                                            <td><b>Brief Description</b></td>
                                             <td>
-                                                <p></p>
+                                                <p>A Burn Down Chart is a graphical representation of work left to do versus time. The outstanding work 
+                                                    (or backlog) is often on the vertical axis, with time along the horizontal. </p>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td>Template</td>
+                                            <td><b>Template</b></td>
                                             <td>
                                                 <a href="https://docs.google.com/document/d/1aLOvpLUcF1S3fJsEi6RuOhPrNcxQvdI8ZcXjv7Idpuw/edit">Burn Down Chart Guideline</a>
                                             </td>

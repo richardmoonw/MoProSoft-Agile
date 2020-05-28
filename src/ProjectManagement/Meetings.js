@@ -46,7 +46,7 @@ class Meetings extends Component {
                                         <tr>
                                             <td><b>Outputs</b></td>
                                             <td>
-                                                <p>Burn Down chart</p>
+                                                <Link redirect to="tem_burndown_chart"><p>Burn Down Chart</p></Link>
                                             </td>
                                         </tr>
                                     </tbody>

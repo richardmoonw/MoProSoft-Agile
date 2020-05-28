@@ -20,13 +20,14 @@ class T8IntegrationTestingPlan extends Component {
                                 <Table>
                                     <tbody>
                                         <tr>
-                                            <td>Brief Description</td>
+                                            <td><b>Brief Description</b></td>
                                             <td>
-                                                <p></p>
+                                                <p>An integration test plan is a collection of integration tests that focus on functionality. 
+                                                    Bottom up integration testing proceeds as follows.</p>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td>Template</td>
+                                            <td><b>Template</b></td>
                                             <td>
                                                 <a href="https://docs.google.com/document/d/1HaJK_0AjjxJ--rO3GiddWyrcuhFTGtR-pWKUdgHGe40/edit?usp=sharing">Integration Testing Plan Template</a>
                                             </td>

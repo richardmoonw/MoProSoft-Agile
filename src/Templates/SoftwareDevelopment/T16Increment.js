@@ -20,15 +20,15 @@ class T16Increment extends Component {
                                 <Table>
                                     <tbody>
                                         <tr>
-                                            <td>Brief Description</td>
+                                            <td><b>Brief Description</b></td>
                                             <td>
-                                                <p></p>
+                                                <p>The Increment is the sum of all the Product Backlog items completed during a Sprint and the value of the increments of all previous Sprints.</p>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td>Template</td>
+                                            <td><b>Template</b></td>
                                             <td>
-                                                <p></p>
+                                                <p>N/A</p>
                                             </td>
                                         </tr>
                                     </tbody>

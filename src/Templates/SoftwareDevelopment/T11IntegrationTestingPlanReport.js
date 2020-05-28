@@ -20,13 +20,13 @@ class T11IntegrationTestingPlanReport extends Component {
                                 <Table>
                                     <tbody>
                                         <tr>
-                                            <td>Brief Description</td>
+                                            <td><b>Brief Description</b></td>
                                             <td>
-                                                <p></p>
+                                                <p>This document provides the Test Summary for the integration testing activities within a specific sprint for a specific system.</p>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td>Template</td>
+                                            <td><b>Template</b></td>
                                             <td>
                                                 <a href="https://docs.google.com/document/d/10NaFsGboyEeSBBHpSJTMiLGDNC0kdEGRM9lgZbqhAZo/edit?usp=sharing">Integration Testing Report Plan Template</a>
                                             </td>

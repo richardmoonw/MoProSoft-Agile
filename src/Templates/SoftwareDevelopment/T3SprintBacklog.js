@@ -20,13 +20,15 @@ class T3SprintBacklog extends Component {
                                 <Table>
                                     <tbody>
                                         <tr>
-                                            <td>Brief Description</td>
+                                            <td><b>Brief Description</b></td>
                                             <td>
-                                                <p></p>
+                                                <p>The sprint backlog is a list of tasks identified by the Scrum team to be completed during the Scrum sprint. 
+                                                    During the sprint planning meeting, the team selects some number of product backlog items, usually in the form 
+                                                    of user stories, and identifies the tasks necessary to complete each user story.</p>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td>Template</td>
+                                            <td><b>Template</b></td>
                                             <td>
                                                 <a href="https://docs.google.com/document/d/1Fahled5vdwNi5eD9q6zooZ4QbF3QXDxnC3LvdJlFI2U/edit?usp=sharing">Sprint Backlog Guideline</a>
                                             </td>

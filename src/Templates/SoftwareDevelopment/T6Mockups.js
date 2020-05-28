@@ -20,15 +20,17 @@ class T6Mockups extends Component {
                                 <Table>
                                     <tbody>
                                         <tr>
-                                            <td>Brief Description</td>
+                                            <td><b>Brief Description</b></td>
                                             <td>
-                                                <p></p>
+                                                <p>A mockup is a scale or full-size model of a design or device, used for teaching, demonstration, 
+                                                    design evaluation, promotion, and other purposes. A mockup is a prototype if it provides at least 
+                                                    part of the functionality of a system and enables testing of a design.</p>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td>Template</td>
+                                            <td><b>Template</b></td>
                                             <td>
-                                                <p></p>
+                                                <a href="https://docs.google.com/document/d/1wKgUker86g1yFkpSdXN0X-ElhiG-HjMa6Vvz4UKdxxc/edit?usp=sharing">Mockups Template</a>
                                             </td>
                                         </tr>
                                     </tbody>

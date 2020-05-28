@@ -20,13 +20,13 @@ class T13SystemTestingPlanReport extends Component {
                                 <Table>
                                     <tbody>
                                         <tr>
-                                            <td>Brief Description</td>
+                                            <td><b>Brief Description</b></td>
                                             <td>
-                                                <p></p>
+                                                <p>This document provides the Test Summary for the system testing activities within a specific sprint for a specific system.</p>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td>Template</td>
+                                            <td><b>Template</b></td>
                                             <td>
                                                 <a href="https://docs.google.com/document/d/1biieOIN9GL77ZwBZeM2txYw9mXdZ5ly_CHvecrsZk4g/edit?usp=sharing">System Testing Plan Report Template</a>
                                             </td>

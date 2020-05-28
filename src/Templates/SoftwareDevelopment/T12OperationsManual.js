@@ -20,15 +20,15 @@ class T12OperationsManual extends Component {
                                 <Table>
                                     <tbody>
                                         <tr>
-                                            <td>Brief Description</td>
+                                            <td><b>Brief Description</b></td>
                                             <td>
-                                                <p></p>
+                                                <p>This document contains the necessary information for the software installation and management.</p>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td>Template</td>
+                                            <td><b>Template</b></td>
                                             <td>
-                                                <p></p>
+                                                <a href="https://docs.google.com/document/d/1UJcstQA4Fi8aF7_p4mYWXgVFRymmUDl7fe47mGYGelY/edit?usp=sharing">Operations Manual Template</a>
                                             </td>
                                         </tr>
                                     </tbody>

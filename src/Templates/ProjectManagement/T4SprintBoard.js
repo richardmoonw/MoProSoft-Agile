@@ -20,13 +20,15 @@ class T4SprintBoard extends Component {
                                 <Table>
                                     <tbody>
                                         <tr>
-                                            <td>Brief Description</td>
+                                            <td><b>Brief Description</b></td>
                                             <td>
-                                                <p></p>
+                                                <p>This is the focal point of any agile project and serves as a good place at which to hold the stand-up meeting. 
+                                                    The board is updated and referred by the Team and shows all items during the Daily Scrum keeps the team focused 
+                                                    on the tasks that remain and their priorities.</p>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td>Template</td>
+                                            <td><b>Template</b></td>
                                             <td>
                                                 <a href="https://docs.google.com/document/d/1XUzyreDe4VmFGlinKgKi6F6SOVcMHmnjLbR3Z-eGTHc/edit?usp=sharing">Sprint Board Guideline</a>
                                             </td>

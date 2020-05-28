@@ -20,13 +20,15 @@ class T9UserStories extends Component {
                                 <Table>
                                     <tbody>
                                         <tr>
-                                            <td>Brief Description</td>
+                                            <td><b>Brief Description</b></td>
                                             <td>
-                                                <p></p>
+                                                <p>User stories are part of an agile approach that helps shift the focus from writing about requirements to talking about them. 
+                                                    All agile user stories include a written sentence or two and, more importantly, a series of conversations about the desired 
+                                                    functionality.</p>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td>Template</td>
+                                            <td><b>Template</b></td>
                                             <td>
                                                 <a href="https://docs.google.com/document/d/1G9XUSK9Fk4XszqYzq39kKbfdLCIP-Yx75txV-yJgoGA/edit?usp=sharing">User Stories Guideline</a>
                                             </td>

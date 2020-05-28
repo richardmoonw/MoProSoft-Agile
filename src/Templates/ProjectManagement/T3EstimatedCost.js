@@ -20,13 +20,14 @@ class T3EstimatedCost extends Component {
                                 <Table>
                                     <tbody>
                                         <tr>
-                                            <td>Brief Description</td>
+                                            <td><b>Brief Description</b></td>
                                             <td>
-                                                <p></p>
+                                                <p>This document has the estimates of the project's cost. The cost estimate is the product of the cost estimating process. 
+                                                    The cost estimate has a single total value and may have identifiable component values.</p>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td>Template</td>
+                                            <td><b>Template</b></td>
                                             <td>
                                                 <a href="https://docs.google.com/document/d/1vI1JElftjLi2w1P6oo2lazUIeP68CjreRV1sBkwY2BE/edit?usp=sharing">Estimated Cost Template</a>
                                             </td>

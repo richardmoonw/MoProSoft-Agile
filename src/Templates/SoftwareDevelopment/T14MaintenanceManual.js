@@ -20,13 +20,14 @@ class T14MaintenanceManual extends Component {
                                 <Table>
                                     <tbody>
                                         <tr>
-                                            <td>Brief Description</td>
+                                            <td><b>Brief Description</b></td>
                                             <td>
-                                                <p></p>
+                                                <p>This document contains the System Configuration and the information of the environment in which the system was
+                                                    developed and tested.</p>
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td>Template</td>
+                                            <td><b>Template</b></td>
                                             <td>
                                                 <a href="https://docs.google.com/document/d/1E8inGu60SWz3A3P5WB2OOBoKru7R7cOmRbr_dRHGXRI/edit?usp=sharing">Maintenance Manual Template</a>
                                             </td>
