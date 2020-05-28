@@ -28,7 +28,7 @@ class T12OperationsManual extends Component {
                                         <tr>
                                             <td><b>Template</b></td>
                                             <td>
-                                                <a href="https://docs.google.com/document/d/1UJcstQA4Fi8aF7_p4mYWXgVFRymmUDl7fe47mGYGelY/edit?usp=sharing">Operations Manual Template</a>
+                                                <a href="https://docs.google.com/document/d/1nEKxRw1_py4iBstWeYff8sRuFh4vqzsGcr8b8BDcyO8/edit?usp=sharing">Operations Manual Template</a>
                                             </td>
                                         </tr>
                                     </tbody>
