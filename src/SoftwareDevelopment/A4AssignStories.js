@@ -40,7 +40,7 @@ class A4AssignStories extends Component {
                                         <tr>
                                             <td><b>Inputs</b></td>
                                             <td>
-                                               <p>Sprint backlog</p>
+                                                <Link redirect to="tem_sprint_backlog"><p>Sprint Backlog</p></Link>
                                             </td>
                                         </tr>
                                         <tr>

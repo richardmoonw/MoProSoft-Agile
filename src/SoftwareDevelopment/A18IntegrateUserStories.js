@@ -39,12 +39,13 @@ class A18IntegrateUserStories extends Component {
                                         <tr>
                                             <td><b>Inputs</b></td>
                                             <td>
+                                                <Link redirect to="tem_software"><p>Software</p></Link>
                                             </td>
                                         </tr>
                                         <tr>
                                             <td><b>Outputs</b></td>
                                             <td>
-                                                <p>Integrated working software</p>
+                                                <p>N/A</p>
                                             </td>
                                         </tr>
                                     </tbody>

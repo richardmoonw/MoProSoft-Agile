@@ -39,13 +39,14 @@ class A17ReviewTraceability extends Component {
                                         <tr>
                                             <td><b>Inputs</b></td>
                                             <td>
-                                                <p>User stories</p>
-                                                <p>Software</p>
+                                                <Link redirect to="tem_user_stories"><p>User stories</p></Link>
+                                                <Link redirect to="tem_software"><p>Software</p></Link>
                                             </td>
                                         </tr>
                                         <tr>
                                             <td><b>Outputs</b></td>
                                             <td>
+                                                <p>N/A</p>
                                             </td>
                                         </tr>
                                     </tbody>

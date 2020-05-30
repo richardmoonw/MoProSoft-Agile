@@ -40,12 +40,13 @@ class A29SprintRetrospective extends Component {
                                         <tr>
                                             <td><b>Inputs</b></td>
                                             <td>
+                                                <p>N/A</p>
                                             </td>
                                         </tr>
                                         <tr>
                                             <td><b>Outputs</b></td>
                                             <td>
-                                                <p>Increment</p>
+                                                <Link redirect to="tem_increment"><p>Increment</p></Link>
                                             </td>
                                         </tr>
                                     </tbody>

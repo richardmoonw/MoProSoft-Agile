@@ -39,13 +39,13 @@ class A23PerformSystemTesting extends Component {
                                         <tr>
                                             <td><b>Inputs</b></td>
                                             <td>
-                                                <p>System Testing Plan</p>
+                                                <Link redirect to="tem_system_testing_plan"><p>System Testing Plan</p></Link>
                                             </td>
                                         </tr>
                                         <tr>
                                             <td><b>Outputs</b></td>
                                             <td>
-                                                <p>System Testing Report Plan</p>
+                                                <Link redirect to="tem_system_testing_plan_report"><p>System Testing Plan Report</p></Link>
                                             </td>
                                         </tr>
                                     </tbody>

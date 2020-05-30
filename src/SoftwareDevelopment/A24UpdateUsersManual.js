@@ -39,12 +39,13 @@ class A24UpdateUsersManual extends Component {
                                         <tr>
                                             <td><b>Inputs</b></td>
                                             <td>
+                                                <Link redirect to="tem_users_manual"><p>User's Manual</p></Link>
                                             </td>
                                         </tr>
                                         <tr>
                                             <td><b>Outputs</b></td>
                                             <td>
-                                                <p>User's Manual</p>
+                                                <p>N/A</p>
                                             </td>
                                         </tr>
                                     </tbody>

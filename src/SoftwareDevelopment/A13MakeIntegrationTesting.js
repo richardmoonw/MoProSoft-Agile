@@ -39,12 +39,13 @@ class A13MakeIntegrationTesting extends Component {
                                         <tr>
                                             <td><b>Inputs</b></td>
                                             <td>
+                                                <Link redirect to="tem_integration_testing_plan"><p>Integration testing plan (Optional)</p></Link>
                                             </td>
                                         </tr>
                                         <tr>
                                             <td><b>Outputs</b></td>
                                             <td>
-                                                <p>Integration testing plan</p>
+                                                <Link redirect to="tem_integration_testing_plan"><p>Integration testing plan</p></Link>
                                             </td>
                                         </tr>
                                     </tbody>

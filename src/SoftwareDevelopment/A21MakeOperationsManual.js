@@ -39,13 +39,13 @@ class A21MakeOperationsManual extends Component {
                                         <tr>
                                             <td><b>Inputs</b></td>
                                             <td>
-                                                
+                                                <Link redirect to="tem_operations_manual"><p>Operations' manual (Optional)</p></Link>
                                             </td>
                                         </tr>
                                         <tr>
                                             <td><b>Outputs</b></td>
                                             <td>
-                                                <p>Operations' Manual</p>
+                                                <Link redirect to="tem_operations_manual"><p>Operations' manual</p></Link>
                                             </td>
                                         </tr>
                                     </tbody>

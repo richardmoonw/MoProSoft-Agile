@@ -39,13 +39,13 @@ class A7MakeUsersManual extends Component {
                                         <tr>
                                             <td><b>Inputs</b></td>
                                             <td>
-                                               <p></p>
+                                                <Link redirect to="tem_users_manual"><p>User's Manual (Optional)</p></Link>
                                             </td>
                                         </tr>
                                         <tr>
                                             <td><b>Outputs</b></td>
                                             <td>
-                                                <p>User's manual</p>
+                                                <Link redirect to="tem_users_manual"><p>User's Manual</p></Link>
                                             </td>
                                         </tr>
                                     </tbody>

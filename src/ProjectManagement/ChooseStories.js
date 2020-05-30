@@ -40,12 +40,14 @@ class ChooseStories extends Component {
                                         <tr>
                                             <td><b>Inputs</b></td>
                                             <td>
-                                               <p>Product Backlog</p>
+                                                <Link redirect to="tem_product_backlog"><p>Product Backlog</p></Link>
                                             </td>
                                         </tr>
                                         <tr>
                                             <td><b>Outputs</b></td>
-                                            <td>Spring Backlog</td>
+                                            <td>
+                                                <Link redirect to="tem_sprint_backlog"><p>Sprint Backlog</p></Link>
+                                            </td>
                                         </tr>
                                     </tbody>
                                 </Table>

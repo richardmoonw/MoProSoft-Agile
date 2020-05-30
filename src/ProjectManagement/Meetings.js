@@ -40,13 +40,13 @@ class Meetings extends Component {
                                         <tr>
                                             <td><b>Inputs</b></td>
                                             <td>
-                                               <p>Sprint Board</p>
+                                                <Link redirect to="tem_sprint_board"><p>Sprint Board</p></Link>
                                             </td>
                                         </tr>
                                         <tr>
                                             <td><b>Outputs</b></td>
                                             <td>
-                                                <p>Burn Down chart</p>
+                                                <Link redirect to="tem_burndown_chart"><p>Burn Down Chart</p></Link>
                                             </td>
                                         </tr>
                                     </tbody>

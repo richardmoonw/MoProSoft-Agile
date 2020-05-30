@@ -39,12 +39,13 @@ class A12ReviewHighLevelDesigns extends Component {
                                         <tr>
                                             <td><b>Inputs</b></td>
                                             <td>
-                                               <p>High level design</p>
+                                                <Link redirect to="tem_highlevel_design"><p>High level design</p></Link>
                                             </td>
                                         </tr>
                                         <tr>
                                             <td><b>Outputs</b></td>
                                             <td>
+                                                <p>N/A</p>
                                             </td>
                                         </tr>
                                     </tbody>

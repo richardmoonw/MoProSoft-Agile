@@ -41,13 +41,13 @@ class A3ChooseStories extends Component {
                                         <tr>
                                             <td><b>Inputs</b></td>
                                             <td>
-                                               <p>Product backlog</p>
+                                                <Link redirect to="tem_product_backlog"><p>Product Backlog</p></Link>
                                             </td>
                                         </tr>
                                         <tr>
                                             <td><b>Outputs</b></td>
                                             <td>
-                                                <p>Sprint backlog</p>
+                                                <Link redirect to="tem_sprint_backlog"><p>Sprint Backlog</p></Link>
                                             </td>
                                         </tr>
                                     </tbody>

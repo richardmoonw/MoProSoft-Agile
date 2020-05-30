@@ -57,6 +57,29 @@ import DevTeam from './Roles/DevTeam'
 import Developer from './Roles/Developer'
 import QA from './Roles/QA'
 
+import T1ProductRoadmap from './Templates/SoftwareDevelopment/T1ProductRoadmap'
+import T2ProductBacklog from './Templates/SoftwareDevelopment/T2ProductBacklog'
+import T3SprintBacklog from './Templates/SoftwareDevelopment/T3SprintBacklog'
+import T4SystemTestingPlan from './Templates/SoftwareDevelopment/T4SystemTestingPlan'
+import T5UsersManual from './Templates/SoftwareDevelopment/T5UsersManual'
+import T6Mockups from './Templates/SoftwareDevelopment/T6Mockups'
+import T7HighLevelDesign from './Templates/SoftwareDevelopment/T7HighLevelDesign'
+import T8IntegrationTestingPlan from './Templates/SoftwareDevelopment/T8IntegrationTestingPlan'
+import T9UserStories from './Templates/SoftwareDevelopment/T9UserStories'
+import T10Software from './Templates/SoftwareDevelopment/T10Software'
+import T11IntegrationTestingPlanReport from './Templates/SoftwareDevelopment/T11IntegrationTestingPlanReport'
+import T12OperationsManual from './Templates/SoftwareDevelopment/T12OperationsManual'
+import T13SystemTestingPlanReport from './Templates/SoftwareDevelopment/T13SystemTestingPlanReport'
+import T14MaintenanceManual from './Templates/SoftwareDevelopment/T14MaintenanceManual'
+import T15ChangeRequest from './Templates/SoftwareDevelopment/T15ChangeRequest'
+import T16Increment from './Templates/SoftwareDevelopment/T16Increment'
+
+import T1ProjectDescription from './Templates/ProjectManagement/T1ProjectDescription'
+import T2DeliveriesSchedule from './Templates/ProjectManagement/T2DeliveriesSchedule'
+import T3EstimatedCost from './Templates/ProjectManagement/T3EstimatedCost'
+import T4SprintBoard from './Templates/ProjectManagement/T4SprintBoard'
+import T5BurndownChart from './Templates/ProjectManagement/T5BurndowChart'
+
 const Index = () => (
     <BrowserRouter>
         <Switch>
@@ -120,7 +143,33 @@ const Index = () => (
             <Route path="/dev_team/" component={DevTeam} exact />
             <Route path="/developer/" component={Developer} exact />
             <Route path="/qa/" component={QA} exact />
-            
+
+            {/* Work product templates. Software development */}
+            <Route path="/tem_product_roadmap/" component={T1ProductRoadmap} exact />
+            <Route path="/tem_product_backlog/" component={T2ProductBacklog} exact />
+            <Route path="/tem_sprint_backlog/" component={T3SprintBacklog} exact />
+            <Route path="/tem_system_testing_plan/" component={T4SystemTestingPlan} exact />
+            <Route path="/tem_users_manual/" component={T5UsersManual} exact />
+            <Route path="/tem_mockups/" component={T6Mockups} exact />
+            <Route path="/tem_highlevel_design/" component={T7HighLevelDesign} exact />
+            <Route path="/tem_integration_testing_plan/" component={T8IntegrationTestingPlan} exact />
+            <Route path="/tem_user_stories/" component={T9UserStories} exact />
+            <Route path="/tem_software/" component={T10Software} exact />
+            <Route path="/tem_integration_testing_plan_report/" component={T11IntegrationTestingPlanReport} exact />
+            <Route path="/tem_operations_manual/" component={T12OperationsManual} exact />
+            <Route path="/tem_system_testing_plan_report/" component={T13SystemTestingPlanReport} exact />
+            <Route path="/tem_maintenance_manual/" component={T14MaintenanceManual} exact />
+            <Route path="/tem_change_request/" component={T15ChangeRequest} exact />
+            <Route path="/tem_increment/" component={T16Increment} exact />
+
+            {/* Work product templates. Project Management */}
+            <Route path="/tem_project_description/" component={T1ProjectDescription} exact />
+            <Route path="/tem_deliveries_schedule/" component={T2DeliveriesSchedule} exact />
+            <Route path="/tem_estimated_cost/" component={T3EstimatedCost} exact />
+            <Route path="/tem_sprint_board/" component={T4SprintBoard} exact />
+            <Route path="/tem_burndown_chart" component={T5BurndownChart} exact />
+
+
         </Switch>
     </BrowserRouter>
   );

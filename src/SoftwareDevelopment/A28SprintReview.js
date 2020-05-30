@@ -41,14 +41,13 @@ class A28SprintReview extends Component {
                                         <tr>
                                             <td><b>Inputs</b></td>
                                             <td>
+                                                <Link redirect to="tem_sprint_backlog"><p>Sprint Backlog</p></Link>
                                             </td>
                                         </tr>
                                         <tr>
                                             <td><b>Outputs</b></td>
                                             <td>
-                                                <p>Change request</p>
-                                                <p>Software</p>
-                                                <p>Prototype</p>
+                                                <Link redirect to="tem_change_request"><p>Change request</p></Link>
                                             </td>
                                         </tr>
                                     </tbody>

@@ -40,7 +40,7 @@ class ReviewTraceability extends Component {
                                         <tr>
                                             <td><b>Inputs</b></td>
                                             <td>
-                                               <p>Product backlog</p>
+                                                <Link redirect to="tem_product_backlog"><p>Product Backlog</p></Link>
                                             </td>
                                         </tr>
                                         <tr>

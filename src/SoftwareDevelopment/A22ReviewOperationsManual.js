@@ -39,13 +39,13 @@ class A22ReviewOperationsManual extends Component {
                                         <tr>
                                             <td><b>Inputs</b></td>
                                             <td>
-                                                <p>Operations' Manual</p>
+                                                <Link redirect to="tem_operations_manual"><p>Operations' manual</p></Link>
                                             </td>
                                         </tr>
                                         <tr>
                                             <td><b>Outputs</b></td>
                                             <td>
-                                                
+                                                <p>N/A</p>
                                             </td>
                                         </tr>
                                     </tbody>

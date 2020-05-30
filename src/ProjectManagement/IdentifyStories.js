@@ -41,14 +41,14 @@ class IdentifyStories extends Component {
                                         <tr>
                                             <td><b>Inputs</b></td>
                                             <td>
-                                               <p>Project Description</p>
+                                                <Link redirect to="tem_project_description"><p>Project Description</p></Link>
                                             </td>
                                         </tr>
                                         <tr>
                                             <td><b>Outputs</b></td>
                                             <td>
-                                                <p>Product Backlog</p>
-                                                <p>Deliveries' schedule</p>
+                                                <Link redirect to="tem_product_backlog"><p>Product Backlog</p></Link>
+                                                <Link redirect to="tem_deliveries_schedule"><p>Deliveries' schedule</p></Link>
                                             </td>
                                         </tr>
                                     </tbody>

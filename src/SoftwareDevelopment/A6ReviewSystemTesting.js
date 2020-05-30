@@ -39,13 +39,13 @@ class A6ReviewSystemTesting extends Component {
                                         <tr>
                                             <td><b>Inputs</b></td>
                                             <td>
-                                               <p>System Testing Plan</p>
+                                                <Link redirect to="tem_system_testing_plan"><p>System Testing Plan</p></Link>
                                             </td>
                                         </tr>
                                         <tr>
                                             <td><b>Outputs</b></td>
                                             <td>
-                                                <p></p>
+                                                <p>N/A</p>
                                             </td>
                                         </tr>
                                     </tbody>
